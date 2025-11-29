@@ -339,10 +339,18 @@ inputs), and information channels, which transform input from one or more sites
 into outputs at other sites. Examples of such transformations include
 recruitment decisions or sorting algorithms.
 
+.. image:: img/Presentation.jp2
+   :width: 600
+   :alt: Overview of the IFM information flow model
+
 The information flow model is typically represented as a directed graph, as
 illustrated in the figure below. The model has a clear directionality: it can be
 thought of like a river with upstream and downstream flows, although here the
 flows move through information sites and channels.
+
+.. image:: img/Framework_IFM1.jp2
+   :width: 600
+   :alt: Overview of the IFM information flow model
 
 Using the IFM model, it is possible to analyse a sociotechnical system to
 understand the origins of biases in information sites and channels, how these
@@ -390,6 +398,10 @@ that supports model refinement in Step 2, and they help concretise which types
 of impacts should be analysed in Step 5. The types of stakeholders that should
 be included in the participatory modelling are identified through the
 Stakeholder Identification Methodology.
+
+.. image:: img/Framework_IFM3.png
+   :width: 600
+   :alt: Overview of the IFM information flow model
 
 Steps 4 and 5 are primarily conducted by the IFM modellers. In Step 6, potential
 mitigation channels can be evaluated in terms of their influence on the impacts
